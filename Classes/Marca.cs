@@ -16,7 +16,7 @@ namespace AulaPOO_ProjetoDeProdutos.Classes
             Marca novaMarca = new Marca();
             
             Console.WriteLine("Digite o código da marca :");
-            Codigo= int.Parse(Console.ReadLine());
+            novaMarca.Codigo= int.Parse(Console.ReadLine());
 
             Console.WriteLine("Digite  nome da MARCA:");
             NomeMarca = Console.ReadLine();

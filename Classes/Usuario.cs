@@ -33,7 +33,7 @@ namespace AulaPOO_ProjetoDeProdutos.Classes
         DateTime DataCadastro { get; set; }
 
         public void Cadastrar(){
-            Nome = "Paulo";
+            Nome = "Renato";
             Email = "admin@admin.com";
             Senha = "123456";
             DataCadastro = DateTime.UtcNow;           

@@ -8,9 +8,9 @@ namespace AulaPOO_ProjetoDeProdutos.Classes
         public int Codigo { get; set;}
         public string NomeProduto { get; set;}
         public float Preco{ get; set;}
-        
+
         public DateTime DataCadastro { get; set ;}
-        Marca Marca { get; set; }
+        Marca Marca = new Marca();
         public Usuario CadastradoPor { get; set;}
         public List<Produto> ListaDeProduto = new List<Produto>();
 
@@ -44,10 +44,10 @@ namespace AulaPOO_ProjetoDeProdutos.Classes
             Console.ForegroundColor = ConsoleColor.Green;
             foreach( var item in ListaDeProduto)
             {
-                Console.WriteLine($"Código{item.Codigo}");
-                Console.WriteLine($"Produto{item.NomeProduto}");
-                Console.WriteLine($"Preço{item.Preco}");
-                Console.WriteLine($"Data de Cadastro:{item.DataCadastro}");
+                Console.WriteLine($"Código: {item.Codigo}");
+                Console.WriteLine($"Produto: {item.NomeProduto}");
+                Console.WriteLine($"Preço: {item.Preco}");
+                Console.WriteLine($"Data de Cadastro: {item.DataCadastro}");
                 Console.WriteLine($"Marca: {item.Marca.NomeMarca}");
                 Console.WriteLine($"Cadastrado por: {item.CadastradoPor.Nome}");
                 Console.WriteLine();
