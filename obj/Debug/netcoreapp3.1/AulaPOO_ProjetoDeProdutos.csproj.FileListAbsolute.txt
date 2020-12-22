@@ -1,0 +1,13 @@
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\AulaPOO_ProjetoDeProdutos\bin\Debug\netcoreapp3.1\AulaPOO_ProjetoDeProdutos.exe
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\AulaPOO_ProjetoDeProdutos\bin\Debug\netcoreapp3.1\AulaPOO_ProjetoDeProdutos.deps.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\AulaPOO_ProjetoDeProdutos\bin\Debug\netcoreapp3.1\AulaPOO_ProjetoDeProdutos.runtimeconfig.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\AulaPOO_ProjetoDeProdutos\bin\Debug\netcoreapp3.1\AulaPOO_ProjetoDeProdutos.runtimeconfig.dev.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\AulaPOO_ProjetoDeProdutos\bin\Debug\netcoreapp3.1\AulaPOO_ProjetoDeProdutos.dll
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\AulaPOO_ProjetoDeProdutos\bin\Debug\netcoreapp3.1\AulaPOO_ProjetoDeProdutos.pdb
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\AulaPOO_ProjetoDeProdutos\obj\Debug\netcoreapp3.1\AulaPOO_ProjetoDeProdutos.csprojAssemblyReference.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\AulaPOO_ProjetoDeProdutos\obj\Debug\netcoreapp3.1\AulaPOO_ProjetoDeProdutos.AssemblyInfoInputs.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\AulaPOO_ProjetoDeProdutos\obj\Debug\netcoreapp3.1\AulaPOO_ProjetoDeProdutos.AssemblyInfo.cs
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\AulaPOO_ProjetoDeProdutos\obj\Debug\netcoreapp3.1\AulaPOO_ProjetoDeProdutos.csproj.CoreCompileInputs.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\AulaPOO_ProjetoDeProdutos\obj\Debug\netcoreapp3.1\AulaPOO_ProjetoDeProdutos.dll
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\AulaPOO_ProjetoDeProdutos\obj\Debug\netcoreapp3.1\AulaPOO_ProjetoDeProdutos.pdb
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\AulaPOO_ProjetoDeProdutos\obj\Debug\netcoreapp3.1\AulaPOO_ProjetoDeProdutos.genruntimeconfig.cache
